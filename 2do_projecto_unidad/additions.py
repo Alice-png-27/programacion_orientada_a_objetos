@@ -1,6 +1,6 @@
 # two player chess in python with Pygame!
 # part one, set up variables images and game loop
-
+#mensajito aver si aparece checale
 # Basic pygame setup
 import pygame
 pygame.init()
